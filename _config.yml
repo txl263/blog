@@ -1,4 +1,4 @@
-baseurl: /blog
+baseurl: /
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 author:                                     #自定义常量
 name: Eric
