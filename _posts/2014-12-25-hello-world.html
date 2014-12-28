@@ -8,12 +8,9 @@ title: "你好，世界"
 　　<h2>{{ page.title }}</h2>
 
 　　<p>我的第一篇文章</p>
-
+    
 　　<p>{{ page.date | date_to_string }}</p>
-    $ alias swift=/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swift
-    $ swift
-    Welcome to Swift!  Type :help for assistance.
-    1> let greeting = "Hello REPL!"
-    greeting: String = "Hello REPL!"
-    2> println(greeting)
-    Hello REPL!
+    {% for categories in site.categories %}
+      "{{ categories.software }}"
+    {% endfor %}
+    <p>{{site.categories.CATEGORY}}</p>
