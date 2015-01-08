@@ -18,19 +18,19 @@ title: Mac OS Development - 2 - Xcode Hello World
  1. 减号（或者加号）  
  减号表示一个函数、或者方法、或者消息的开始，怎么说都行。
  比如c#中，一个方法的写法可能是：
- ```
+```c#
 private void hello(bool ishello)
 {
 //OOXX
 }
- ```
+```
 用Objective-C写出来就是
- ```
+```
 -(void) hello:(BOOL)ishello
 {
 //OOXX
 }
- ```
+```
 挺好懂的吧？  
 不过在Objective-C里面没有public和private的概念，你可以认为全是public。  
  
