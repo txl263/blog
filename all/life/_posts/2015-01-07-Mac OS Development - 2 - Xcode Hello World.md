@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 title: Mac OS Development - 2 - Xcode Hello World
 ---
 
