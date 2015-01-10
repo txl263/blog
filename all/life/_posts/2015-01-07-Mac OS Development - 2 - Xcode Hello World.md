@@ -100,7 +100,6 @@ CF说的是Core Foundation，CA说的是Core Animation，CG说的是Core Graphic
 	return YES;
 	}
 	@end
-这个写法也不一定对，主要是看看语法就行了。-_-b  
-###问题三、一个方法如何传递多个参数？
+这个写法也不一定对，主要是看看语法就行了。-_-b
 
 
