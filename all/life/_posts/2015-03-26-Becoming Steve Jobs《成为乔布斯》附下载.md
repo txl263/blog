@@ -57,4 +57,4 @@ BI中文站 3月13日报道
 鉴于沃尔特·艾萨克森（Walter Isaacson）的乔布斯传记不太完善，这本即将出版的新书很可能成为人们期待已久的“珍品”。在写作这本书的过程中，有很多重量级人物参与，包括乔布斯的许多最亲密朋友，比如库克和苹果首席设计师强尼·艾维（Jony Ive）等。（汤姆 风帆）
 
 下载地址链接: 
-http://pan.baidu.com/s/1bbBqe 密码: kj75 
+[http://pan.baidu.com/s/1bbBqe](http://pan.baidu.com/s/1bbBqe) 密码: kj75 
