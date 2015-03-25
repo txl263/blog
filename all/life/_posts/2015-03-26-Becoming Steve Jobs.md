@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming Steve Jobs 英语 附下载
+title: Becoming Steve Jobs《成为乔布斯》附下载
 ---
 
 转自：http://view.inews.qq.com/a/TEC2015031303096605  
