@@ -1,3 +1,8 @@
+---
+layout: post
+title: 炉石传说 圣骑士玩法小结
+---
+
 转自：http://view.inews.qq.com/a/TEC2015031303096605  
 BI中文站 3月13日报道
 
