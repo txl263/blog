@@ -4,6 +4,7 @@ title: Becoming Steve Jobs《成为乔布斯》附下载
 ---
 
 转自：http://view.inews.qq.com/a/TEC2015031303096605  
+![](/images/jobs0009.jpg)
 BI中文站 3月13日报道
 
 名为《成为乔布斯》（Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader）的新传记即将于3月24日发行。目前流出的摘录曝光了许多令人耸人听闻的细节。
@@ -23,7 +24,7 @@ BI中文站 3月13日报道
 从左至右依次为布伦特·本福特、比尔·盖茨和乔布斯（摄于1991年）
 
 事实上，早在2007年苹果就推出了自己的机顶盒设备Apple TV，用户可以通过这一设备观看Netflix和MLB的内容。本周，苹果宣布Apple TV销量突破了2500万台，同时宣布将与HBO达成独家合作协议，此次合作意味着苹果用户可以通过Apple TV上第一时间收看HBO的所有剧目。  
-![](/images/jobs10001.jpg)    
+![](/images/jobs1001.jpg)    
 应该说，这并不是乔布斯第一次对电视机产品表示出自己的不懈。因为在《困境中的帝国:后乔布斯时代的苹果》(Haunted Empire: Apple After Steve Jobs)一书中，作者曾称乔布斯认为:“电视是一门烂生意，更新频率低，利润率也低。”
 
 然而，这一观点同沃尔特-艾萨克森 (Walter Isaacson)主笔的《乔布斯传》内容有着较大出入。艾萨克森在该书中表示，乔布斯非常希望推出一款电视产品，这款电视将像苹果其他产品一样简单而优雅。
