@@ -22,7 +22,7 @@ title: Becoming Steve Jobs《成为乔布斯》附下载
 
 Hammerspoon没有窗口界面，dock icon也可以隐藏，然后安静的待在菜单栏里。
 
-![内存占用](/images/Snip20150713_10.png)
+![内存占用](./images/Snip20150713_10.png)
 
 [官网](http://www.hammerspoon.org/)上面有入门文档和API文档。Github上也有[]()[Sample Configurations](https://github.com/Hammerspoon/hammerspoon/wiki/Sample-Configurations) 。
 
@@ -69,17 +69,17 @@ Hammerspoon没有窗口界面，dock icon也可以隐藏，然后安静的待在
 
 另外Hammerspoon的窗口隐藏功能，只是调用系统的hide，并不能在dock和⌘+TAB隐藏。这样在程序或者窗口切换的时候可能还是面临一大堆的窗口。要弥补这个缺陷就需要另外一个软件了[GhostTile,隐藏 Dock 上运行 App 的小工具](https://www.v2ex.com/t/107516#reply71)。
 
-![GhostTile](/images/Snip20150713_9.png)
+![GhostTile](./images/Snip20150713_9.png)
 
 利用这个工具可以实现窗口和dock icon还有 ⌘+tab的隐藏。而且因为它自带了workflow支持，所以Hammerspoon也可以调用它的功能，如图：
 
-![GhostTile](/images/Snip20150713_1.png)
+![GhostTile](./images/Snip20150713_1.png)
 
 可以实现Add、hide、unhide、remove，双击右边的Run Script![Run Script](Snip20150713_6.png)
 
 就看到是怎么通过脚本调用的啦，比如：
 
-![ghost.py](/images/Snip20150713_7.png)
+![ghost.py](./images/Snip20150713_7.png)
 
 可以看到`/usr/bin/python ./ghost.py add "{query}”`是调用的`ghost.py`这个脚本。
 
@@ -177,7 +177,7 @@ app的路径和名字的这个不用讲。bundleID也可以获得`hs.application
 
 [GhostTile](http://ghosttile.kernelpanic.im/)是国人编写的收费软件。收费版小贵。。。免费版没有功能限制，只是偶尔会弹出个提示框，平时使用没问题。但是如果你要是用workflow或者命令行调用，比如从Hammersooon中调用，那么如果正好碰上弹出提示框，那么这次调用就会失败，所以要想顺畅的使用还是需要购买一下的。
 
-![GhostTile](/images/Snip20150713_8.png)
+![GhostTile](./images/Snip20150713_8.png)
 
 07-13-2015 
 
