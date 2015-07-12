@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Becoming Steve Jobs《成为乔布斯》附下载
+---
 
 # Hammerspoon Configs
 
